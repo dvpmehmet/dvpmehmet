@@ -4,7 +4,7 @@
 
 
 ## 👨‍💻: &nbsp; About me
-- 🎓 &nbsp; I'm studying as **Computer Programming** student at Celal Bayar University and **Management Information Systems** at Anadolu University.
+- 🎓 &nbsp; I'm **Computer Programming** graduate at Celal Bayar University and studying **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp;I really like and eager to exploring new technologies.
 - 🌱 I’m currently learning **Javascript**
 - 💬 Ask me about **Html,CSS and Bootstrap**
