@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Bekar</h1>
 <h3 align="left">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="[https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif](https://www.lambdatest.com/resources/images/news24.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 ## 👨‍💻: &nbsp; About me
